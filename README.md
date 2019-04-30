@@ -1,15 +1,12 @@
-# README
+# Collab App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is in collaboration with Leo and Nick on getting familiar with GitHub.
 
-Things you may want to cover:
+Here are details on our app:
 
-* Ruby version
-2.6.1
+* Ruby version: 2.6.1
 
-* System dependencies
-Bundle Install
+* System dependencies: Bundle Install
 
 * Configuration
 
@@ -17,11 +14,8 @@ Bundle Install
 
 * Database initialization
 
-* How to run the test suite
-Using Capybara and RSpec
+* How to run the test suite: Use Capybara & RSpec and run with 'rspec'
 
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
