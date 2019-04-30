@@ -9,6 +9,7 @@ Things you may want to cover:
 2.6.1
 
 * System dependencies
+Bundle Install
 
 * Configuration
 
