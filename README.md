@@ -18,6 +18,7 @@ Bundle Install
 * Database initialization
 
 * How to run the test suite
+Using Capybara and RSpec
 
 * Services (job queues, cache servers, search engines, etc.)
 
