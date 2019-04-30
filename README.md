@@ -9,6 +9,7 @@ Things you may want to cover:
 2.6.1
 
 * System dependencies
+Bundle Install
 
 * Configuration
 
@@ -17,6 +18,7 @@ Things you may want to cover:
 * Database initialization
 
 * How to run the test suite
+Using Capybara and RSpec
 
 * Services (job queues, cache servers, search engines, etc.)
 
