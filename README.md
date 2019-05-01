@@ -10,7 +10,7 @@ Here are details on our app:
 
 * Configuration
 
-* Database creation
+* Database creation: rails db:migrate
 
 * Database initialization
 
