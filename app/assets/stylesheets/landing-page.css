@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h1,
@@ -14,7 +14,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -58,11 +58,15 @@ header.masthead h1 {
 .showcase .showcase-img {
   min-height: 30rem;
   background-size: cover;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
 }
 
 @media (min-width: 768px) {
   .showcase .showcase-text {
-    padding: 7rem;
+    padding: 20rem;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
   }
 }
 
