@@ -58,13 +58,15 @@ header.masthead h1 {
 .showcase .showcase-img {
   min-height: 30rem;
   background-size: cover;
-  border: 1px solid #021a40;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
 }
 
 @media (min-width: 768px) {
   .showcase .showcase-text {
     padding: 20rem;
-    border: 1px solid #021a40;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
   }
 }
 
